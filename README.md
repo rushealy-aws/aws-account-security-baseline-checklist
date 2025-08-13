@@ -17,8 +17,7 @@ This checklist is designed to help you implement foundational security controls 
   - Test MFA functionality after setup
 
 - [ ] **Remove or secure root access keys**
-  - Delete root access keys if they exist and are not needed
-  - If root access keys are required, rotate them regularly
+  - Delete root access keys if they exist
   - Never share root access keys
 
 - [ ] **Set strong root password**
