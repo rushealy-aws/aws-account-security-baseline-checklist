@@ -4,7 +4,7 @@ A comprehensive checklist based on AWS prescriptive guidance to establish a secu
 
 ## Overview
 
-This checklist is designed to help you implement foundational security controls that create a minimum security baseline for your AWS account. The controls are organized into categories focusing on identity and access management, logging and monitoring, data protection, and incident response.
+This checklist is designed to help you implement foundational security controls that create a minimum security baseline for your AWS account. The controls are organized into categories focusing on identity and access management, logging and monitoring, data protection, and incident response. This list is follows the [AWS Startup Security Baseline for Securing Your AWS Account](https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-startup-security-baseline/controls-acct.html), which is part of the [AWS Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance/) framework.
 
 ---
 
