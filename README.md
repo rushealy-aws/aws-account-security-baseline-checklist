@@ -27,7 +27,7 @@ This checklist is designed to help you implement foundational security controls 
 
 - [ ] **Limit root account usage**
   - Use root account [only for tasks that require root privileges](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#root-user-tasks)
-  - Document when and why root account is used
+  - Document when and why root account is used, preferably using a ticketing system
   - Create IAM users for day-to-day operations
 
 ### 1.2 Account Contact Information
